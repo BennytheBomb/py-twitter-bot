@@ -1,4 +1,4 @@
-# Twitter-Bot
+﻿# Twitter-Bot
 Really simple [Twitter](https://twitter.com/) bot for educational purposes, written in [Python](https://www.python.org/), continually tested with [Travis CI](https://travis-ci.org/), deployed on [Heroku](https://heroku.com/).
 
 # 1. Twitter
@@ -159,3 +159,4 @@ if random.random() > 0.5:
 else:
     print('klein')
 ```
+[![Build Status](https://travis-ci.org/BennytheBomb/py-twitter-bot.svg?branch=master)](https://travis-ci.org/BennytheBomb/py-twitter-bot)
